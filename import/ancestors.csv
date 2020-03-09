@@ -1,7 +1,9 @@
 :START_ID(Person),:TYPE,:END_ID(Person)
 edward3,FATHER_OF,edwardTheBlackPrince
+edward3,FATHER_OF,lionelOfAntwerp
 edward3,FATHER_OF,johnOfGaunt
 edward3,FATHER_OF,edmundOfLangley
+edward3,FATHER_OF,thomasOfWoodstock
 edwardTheBlackPrince,FATHER_OF,richard2
 johnOfGaunt,FATHER_OF,henry4
 henry4,FATHER_OF,henry5

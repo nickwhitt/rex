@@ -9,7 +9,9 @@ A graph database for European monarchies and ancestors.
         --nodes=Person=import/people.csv \
         --nodes=Dynasty=import/dynasties.csv \
         --nodes=Kingdom=import/kingdoms.csv \
+        --nodes=Peerage=import/peerages.csv \
         --relationships=import/houses.csv \
         --relationships=import/ancestors.csv \
-        --relationships=import/monarchies.csv \
-        --relationships=import/successions.csv
+        --relationships=import/sovereigns.csv \
+        --relationships=import/successions.csv \
+        --relationships=import/titles.csv
