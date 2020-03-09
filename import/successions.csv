@@ -1,0 +1,11 @@
+:START_ID(Person),:TYPE,:END_ID(Person)
+edward3,SUCCEEDED_BY,richard2
+richard2,DEPOSED_BY,henry4
+henry4,SUCCEEDED_BY,henry5
+henry5,SUCCEEDED_BY,henry6
+henry6,DEPOSED_BY,edward4
+edward4,DEPOSED_BY,henry6
+henry6,DEPOSED_BY,edward4
+edward4,SUCCEEDED_BY,edward5
+edward5,DEPOSED_BY,richard3
+richard3,DEPOSED_BY,henry7

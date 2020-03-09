@@ -1,0 +1,5 @@
+:START_ID(Person),:END_ID(Dynasty),:TYPE
+edward3,plantagenet,HOUSE_OF
+edmundOfLangley,plantagenet,HOUSE_OF
+edmundOfLangley,york,FOUNDER_OF
+richard3,york,HOUSE_OF
