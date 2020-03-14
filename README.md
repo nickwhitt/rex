@@ -2,6 +2,8 @@
 
 A graph database for European monarchies and ancestors.
 
+![War of the Roses](graph.png "War of the Roses")
+
 ## Import
 
     docker-compose exec neo4j bin/neo4j-admin import \
