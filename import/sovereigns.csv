@@ -1,13 +1,23 @@
-:START_ID(Person),from,to,coronation,:TYPE,:END_ID(Kingdom)
-edward3,25 January 1327,21 June 1377,1 February 1327,KING_OF,england
-richard2,22 June 1377,29 September 1399,,KING_OF,england
-henry4,30 September 1399,13 October 1413,13 October 1399,KING_OF,england
-henry5,21 March 1413,31 August 1422,9 April 1413,KING_OF,england
-henry6,1 September 1422,4 March 1461,6 November 1429,KING_OF,england
-henry6,21 October 1422,19 October 1453,16 December 1431,DISPUTED_KING_OF,france
-edward4,4 March 1461,3 October 1470,28 June 1461,KING_OF,england
-henry6,3 October 1470,11 April 1471,,KING_OF,england
-edward4,11 April 1471,9 April 1483,,KING_OF,england
-edward5,9 April 1483,25 June 1483,,KING_OF,england
-richard3,26 June 1483,22 August 1485,6 July 1483,KING_OF,england
-henry7,22 August 1485,21 April 1509,30 October 1485,KING_OF,england
+:START_ID(Person),from,to,coronation,:TYPE,:END_ID(Kingdom),regnalName
+philip3,25 August 1270,5 October 1285,30 August 1271,KING_OF,france,
+philip4,5 October 1285,29 November 1314,6 January 1286,KING_OF,france,
+philip4,16 August 1284,4 April 1305,6 January 1286,KING_OF,navarre,Philip I
+charles4,3 January 1322,1 February 1328,21 February 1322,KING_OF,france,
+charles4,3 January 1322,1 February 1328,21 February 1322,KING_OF,navarre,Charles I
+isabellaOfFrance,25 January 1308,25 January 1327,25 February 1308,QUEEN_CONSORT_OF,england,
+edward3,25 January 1327,21 June 1377,1 February 1327,KING_OF,england,
+philip6,1 April 1328,22 August 1350,29 May 1328,KING_OF,france,
+richard2,22 June 1377,29 September 1399,,KING_OF,england,
+henry4,30 September 1399,13 October 1413,13 October 1399,KING_OF,england,
+henry5,21 March 1413,31 August 1422,9 April 1413,KING_OF,england,
+charles6,16 September 1380,21 October 1422,4 November 1380,KING_OF,france,
+catherineOfValois,2 June 1420,31 August 1422,23 February 1421,QUEEN_CONSORT_OF,england,
+henry6,1 September 1422,4 March 1461,6 November 1429,KING_OF,england,
+henry6,21 October 1422,19 October 1453,16 December 1431,DISPUTED_KING_OF,france,
+charles7,21 October 1422,22 July 1461,17 July 1429,KING_OF,france,
+edward4,4 March 1461,3 October 1470,28 June 1461,KING_OF,england,
+henry6,3 October 1470,11 April 1471,,KING_OF,england,
+edward4,11 April 1471,9 April 1483,,KING_OF,england,
+edward5,9 April 1483,25 June 1483,,KING_OF,england,
+richard3,26 June 1483,22 August 1485,6 July 1483,KING_OF,england,
+henry7,22 August 1485,21 April 1509,30 October 1485,KING_OF,england,

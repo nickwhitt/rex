@@ -1,4 +1,10 @@
 :START_ID(Person),:TYPE,:END_ID(Person)
+philip3,FATHER_OF,philip4
+philip3,FATHER_OF,charlesOfValois
+charlesOfValois,FATHER_OF,philip6
+philip4,FATHER_OF,charles4
+philip4,FATHER_OF,isabellaOfFrance
+isabellaOfFrance,MOTHER_OF,edward3
 edward3,FATHER_OF,edwardTheBlackPrince
 edward3,FATHER_OF,lionelOfAntwerp
 edward3,FATHER_OF,johnOfGaunt
@@ -6,6 +12,13 @@ edward3,FATHER_OF,edmundOfLangley
 edward3,FATHER_OF,thomasOfWoodstock
 edwardTheBlackPrince,FATHER_OF,richard2
 johnOfGaunt,FATHER_OF,henry4
+edmundOfLangley,FATHER_OF,richardOfConisburgh
+richardOfConisburgh,FATHER_OF,richardOfYork
+richardOfYork,FATHER_OF,edward4
+richardOfYork,FATHER_OF,richard3
 henry4,FATHER_OF,henry5
 henry5,FATHER_OF,henry6
+charles6,FATHER_OF,charles7
+charles6,FATHER_OF,catherineOfValois
+catherineOfValois,MOTHER_OF,henry6
 edward4,FATHER_OF,edward5

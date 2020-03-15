@@ -1,4 +1,7 @@
 :START_ID(Person),:END_ID(Dynasty),:TYPE
+charles4,capet,HOUSE_OF
+isabellaOfFrance,capet,HOUSE_OF
+charles4,capet,HOUSE_OF
 edward3,plantagenet,HOUSE_OF
 edwardTheBlackPrince,plantagenet,HOUSE_OF
 richard2,plantagenet,HOUSE_OF

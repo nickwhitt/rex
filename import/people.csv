@@ -1,10 +1,21 @@
-:ID(Person),name,born,died,birthName
+:ID(Person),name,born,died,aliases:string[]
+philip3,Philip III,30 April 1245,5 October 1285,Philip the Bold
+charlesOfValois,Charles of Valois,12 March 1270,16 December 1325,
+philip4,Philip IV,April–June 1268,29 November 1314,Philip the Fair
+charles4,Charles IV,18/19 June 1294,1 February 1328,Charles the Fair;Charles the Bold
+philip6,Philip VI,1293,22 August 1350,Philip the Fortunate;Philip of Valois
+isabellaOfFrance,Isabella of France,1295,22 August 1358,
 edward3,Edward III,13 November 1312,21 June 1377,Edward of Windsor
 edmundOfLangley,Edmund of Langley,5 June 1341,1 August 1402,
 richard2,Richard II,6 January 1367,c. 14 February 1400,Richard of Bordeaux
 henry4,Henry IV,15 April 1367,20 March 1413,Henry Bolingbroke
 henry5,Henry V,16 September 1386,31 August 1422,Henry of Monmouth
+charles6,Charles VI,3 December 1368,21 October 1422,
+charles7,Charles VII,22 February 1403,22 July 1461,
+catherineOfValois,Catherine of Valois,27 October 1401,3 January 1437,
 henry6,Henry VI,6 December 1421,21 May 1471,
+richardOfConisburgh,Richard of Conisburgh,c. July 1385,5 August 1415,
+richardOfYork,Richard of York,22 September 1411,30 December 1460,Richard Plantagenet
 edward4,Edward IV,28 April 1442,9 April 1483,
 edward5,Edward V,2 November 1470,c. 1483,
 richard3,Richard III,2 October 1452,22 August 1485,
